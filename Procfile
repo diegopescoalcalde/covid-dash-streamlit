@@ -10,4 +10,5 @@
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
-web: sh setup.sh && streamlit run app.py\cell \lastrow\row}
+web: sh setup.sh && streamlit run coviddash.py\cell \lastrow\row
+}

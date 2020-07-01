@@ -4,7 +4,6 @@ numpy
 plotly
 plotly.express
 matplotlib
-plotly.subplots
 seaborn
 random
 io

@@ -5,6 +5,4 @@ plotly
 plotly.express
 matplotlib
 seaborn
-random
-io
 numpy

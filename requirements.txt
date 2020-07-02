@@ -4,5 +4,4 @@ seaborn
 plotly
 plotly.express
 matplotlib
-io
 statsmodels

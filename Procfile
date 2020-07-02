@@ -2,11 +2,11 @@
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
 {\colortbl;\red255\green255\blue255;\red27\green31\blue34;\red255\green255\blue255;}
 {\*\expandedcolortbl;;\cssrgb\c14118\c16078\c18039;\cssrgb\c100000\c100000\c100000;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\paperw11900\paperh16840\margl1440\margr1440\vieww9400\viewh8400\viewkind0
 \deftab720
 
 \itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
-\clvertalt \clshdrawnil \clwWidth6179\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\clvertalt \clshdrawnil \clwWidth6179\clftsWidth3 \clheight60 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
 \pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
 
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0

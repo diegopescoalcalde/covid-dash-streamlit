@@ -200,7 +200,7 @@ class ExploratoryAnalysis:
                 showcoastlines=False,
                 projection_type='equirectangular',
             ),
-            margin = dict(l=5, r=5, t=70, b=5, pad=10)
+            # margin = dict(l=5, r=5, t=70, b=5, pad=10)
         )
 
 

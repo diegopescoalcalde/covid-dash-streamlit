@@ -151,9 +151,9 @@ def main():
                     figure.add_trace(indicator4)
 
                     figure.update_layout(
-                        height=1000,
-                        width=700,
-                        margin=dict(l=5, r=5, t=5, b=5, pad=0),
+                         height=1000,
+                        # width=700,
+                        # margin=dict(l=5, r=5, t=5, b=5, pad=0),
                         # title_text="Summary for {}".format(countries),
                         showlegend=False,
                     )
@@ -186,9 +186,9 @@ def main():
                     figure2.add_trace(stringencyplot, row=1, col=2)
 
                     figure2.update_layout(
-                        height=1000,
-                        width=700,
-                        margin=dict(l=5, r=5, t=20, b=5, pad=0),
+                         height=1000,
+                        # width=700,
+                        # margin=dict(l=5, r=5, t=20, b=5, pad=0),
                         # title_text="Summary for {}".format(countries),
                         showlegend=True,
                         legend_orientation='h',

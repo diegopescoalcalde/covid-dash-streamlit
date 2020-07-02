@@ -3,9 +3,6 @@ pandas
 numpy
 plotly
 plotly.express
-matplotlib.pyplot
 seaborn
 numpy
-plotly.subplots
-io
 

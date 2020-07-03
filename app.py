@@ -114,7 +114,7 @@ def main():
 
             fig = EA.Map(df_map)
 
-            st.plotly_chart(fig)
+            st.plotly_chart(fig, use_container_width=True)
 
 
             countries = st.sidebar.multiselect('Countries', df.location.unique())
@@ -158,7 +158,7 @@ def main():
                         showlegend=False,
                     )
 
-                    st.write(figure)
+                    st.plotly_chart(figure, use_container_width=True)
 
                 else:
                     figure2 = make_subplots(rows=2, cols=2,
@@ -195,7 +195,7 @@ def main():
                         legend=dict(x=0, y=0.5)
                     )
 
-                    st.write(figure2)
+                    st.plotly_chart(figure2, use_container_width=True)
 
         # if page == "Statistics":
         #     st.subheader('Linear Regression')
